@@ -1,2 +1,14 @@
+.holder {
+  display: flex;
+  flex-wrap: wrap; /* Allow items to wrap to the next row */
+  justify-content: center; /* Align items horizontally in the center */
+  gap: 10px; /* Spacing between items */
+}
 
+/* Style for individual items */
+.item {
+  /* Add your item styling here */
+	background-color:blue
+	
+}
 /* Your CSS Code here. */
